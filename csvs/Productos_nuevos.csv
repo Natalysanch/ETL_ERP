@@ -1,0 +1,5 @@
+ProductoID,NombreProducto,MarcaProducto,NombreCategoria,NombreProveedor,PaisProveedor,PrecioListado
+PRD039,Audifonos gamer,SoundMax,Audio,Global Sound Supplies,China,320000
+PRD040,Teclado inalámbrico,CoreLogic,Equipos de computo,Bogotá Componentes Ltda.,Colombia,180000
+PRD041,Smartwatch,Zentra,Celulares,Seoul Devices Co.,Corea del Sur,950000
+PRD042,Cafetera eléctrica,HomeTech,Electrodomésticos,Nordic Home Appliances,Alemania,420000

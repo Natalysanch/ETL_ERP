@@ -1,0 +1,4 @@
+ClienteID,NombreCliente,Genero,RangoEdad,Ciudad,SegmentoCliente
+CLI0038,Laura Martinez,F,26-35,Bogota,Nuevo
+CLI0039,Andres Rodriguez,M,36-45,Cali,Regular
+CLI0040,Valentina Torres,F,18-25,Medellin,VIP
